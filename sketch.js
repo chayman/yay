@@ -12,7 +12,7 @@ function setup() {
 }
 
 function draw() {
-  background(255, 255, 0);
+  background(235, 255, 200);
   noStroke();
 
   for (var i = 0; i < balls.length; i++) {
